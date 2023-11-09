@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    margin: 10px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3f3b35;
+    padding: 5px;
+}
+
+.text {
+    display: block;
+    font-size: 18px;
+    color: #343332;
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.stars {
+    display: flex;
+    font-size: 19px;
+    justify-content: center;
+    color: #e59a11;
+    padding: 5px;
+
+}

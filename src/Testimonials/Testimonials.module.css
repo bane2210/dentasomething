@@ -1,0 +1,25 @@
+
+.containerBackground {
+    background-image: url("../assets/background-testimonial-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: rgb(217 212 212 / 75%);
+}
+
+
+
+@media screen and (min-width: 600px) {
+    .container {
+        flex-direction: row;
+    }
+}

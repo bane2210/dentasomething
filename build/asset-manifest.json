@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2ff69f6.css",
+    "main.js": "/static/js/main.21b255bf.js",
+    "static/js/787.428b8d7f.chunk.js": "/static/js/787.428b8d7f.chunk.js",
+    "static/media/new-menu.jpg": "/static/media/new-menu.c3d6dfc1f734d152e578.jpg",
+    "static/media/bambi-16.jpg": "/static/media/bambi-16.a1e8fb2a0fd91b248a71.jpg",
+    "static/media/bambi-1.jpg": "/static/media/bambi-1.c1ad937c5e11b6787fd6.jpg",
+    "static/media/bambi-3.jpg": "/static/media/bambi-3.d5ad1c1eaa0569f68906.jpg",
+    "static/media/bambi-7.jpg": "/static/media/bambi-7.19d1ca41115d044c401a.jpg",
+    "static/media/bambi-6.jpg": "/static/media/bambi-6.d73b91dda961b3830c95.jpg",
+    "static/media/bambi-9.jpg": "/static/media/bambi-9.797f056d42eb7756a225.jpg",
+    "static/media/bambi-4.jpg": "/static/media/bambi-4.69aa1d9774620ab642c1.jpg",
+    "static/media/bambi-5.jpg": "/static/media/bambi-5.a63a425a5ba26e84b760.jpg",
+    "static/media/bambi-14.jpg": "/static/media/bambi-14.48900bfa8fbb619825eb.jpg",
+    "static/media/bambi-8.jpg": "/static/media/bambi-8.cb59d308d2ecee9bc592.jpg",
+    "static/media/background-testimonial-2.jpg": "/static/media/background-testimonial-2.88be1c9f14b8ddeb95f6.jpg",
+    "static/media/bambi-12.jpg": "/static/media/bambi-12.c7e243e43119343fa904.jpg",
+    "static/media/bambi-2.jpg": "/static/media/bambi-2.95658653a61b90fd9d10.jpg",
+    "static/media/bambi-13.jpg": "/static/media/bambi-13.3d889946e120d115786b.jpg",
+    "static/media/bambi-15.jpg": "/static/media/bambi-15.038c4622e43a67b67124.jpg",
+    "static/media/insta_logo.png": "/static/media/insta_logo.0963b7a591227164566c.png",
+    "static/media/bambi-11.jpg": "/static/media/bambi-11.f1e0d5d38bb79c4ccb59.jpg",
+    "static/media/bambi-10.jpg": "/static/media/bambi-10.5bb5dcab9295fd1f6ff0.jpg",
+    "static/media/footer-background.jpg": "/static/media/footer-background.030d80f19dec15c23769.jpg",
+    "static/media/bambi-play-transparent.png": "/static/media/bambi-play-transparent.2af1e6a3a2f07d6563ab.png",
+    "index.html": "/index.html",
+    "main.f2ff69f6.css.map": "/static/css/main.f2ff69f6.css.map",
+    "main.21b255bf.js.map": "/static/js/main.21b255bf.js.map",
+    "787.428b8d7f.chunk.js.map": "/static/js/787.428b8d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ff69f6.css",
+    "static/js/main.21b255bf.js"
+  ]
+}

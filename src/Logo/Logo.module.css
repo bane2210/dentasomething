@@ -1,0 +1,33 @@
+.container {
+    width: 150px;
+    height: auto;
+    padding: 3px;
+    margin: 5px 3%;
+    overflow: hidden;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container img {
+    width: 100%;
+    height: 100%;
+}
+@media screen and (min-width: 680px) {
+    .container {
+        width: 200px;
+        height: auto;
+        padding: 0px;
+        margin: 1px 3%;
+
+    }
+}
+
+@media screen and (min-width: 800px) {
+    .container {
+        width: 250px;
+        height: auto;
+
+    }
+}
+

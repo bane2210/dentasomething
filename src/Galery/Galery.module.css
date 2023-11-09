@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  flex: 1;
+  display: flex;
+}
+
+.wraper {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  flex-wrap: wrap;
+  padding: 15px;
+  min-height: 500px;
+  background-color: rgba(0, 0, 0, 0.20);
+}

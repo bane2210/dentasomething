@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  justify-content: space-around;
+  background-image: radial-gradient(rgb(252 189 62), rgb(217, 131, 36));
+  align-items: center;
+  color: purple;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 112222222;
+}
+.container div {
+  display: flex;
+  align-items: center;
+}
+
+.container span {
+  display: none;
+}
+
+.container div a {
+  color: purple;
+  padding: 0;
+}
+
+h1 {
+  font-size: inherit;
+  font-weight: inherit;
+  display: flex;
+}
+
+.instaLogo {
+    width: 30px;
+    height: 30px;
+    background-image: url("../../assets/insta_logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+@media screen and (min-width: 580px) {
+  .container span {
+    display: block; 
+    margin: 0 10px;
+  }
+}
